@@ -1,3 +1,9 @@
+### Fork
+This is a Cadmium fork that makes it run in a production environment using [Gross Fabric Hacks](https://github.com/Devan-Kerman/GrossFabricHacks/).
+It also switches to [my own fork of DataFixerUpper](https://github.com/Lucy-t/DataFixerUpper/) which has JellySquid's
+optimizations (at least partially) ported to the 1.16 version of DFU. Original readme follows - the warning probably still
+applies, the things about being dev environment only do not.
+
 Cadmium
 ===
 
