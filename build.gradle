@@ -1,9 +1,9 @@
 plugins {
-	id 'fabric-loom' version '0.4-SNAPSHOT'
+	id 'fabric-loom' version '0.5-SNAPSHOT'
 }
 
-sourceCompatibility = JavaVersion.VERSION_1_8
-targetCompatibility = JavaVersion.VERSION_1_8
+sourceCompatibility = JavaVersion.VERSION_14
+targetCompatibility = JavaVersion.VERSION_14
 
 archivesBaseName = project.archives_base_name
 version = project.mod_version
