@@ -7,6 +7,8 @@ care about until more extensive testing is done.
 
 No guarantee is made that this project will receive any further development or that it will even be maintained.
 
+Also, Satyrn is terrible at programming, don't expect much.
+
 ### Preface
 
 The release of Minecraft 1.13 brought the concept of "data fixers" to the game, enabling seamless and incremental
