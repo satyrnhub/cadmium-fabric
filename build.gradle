@@ -23,7 +23,7 @@ dependencies {
 	mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 	
-	modImplementation "net.fabricmc.fabric-api:${project.fabric_version}"
+	include(modImplementation(fabricApi.module("fabric-resource-loader-v0", project.fabric_api_version)))
 
 	compile project(":DataFixerUpper")
 	embed project(":DataFixerUpper")
