@@ -1,4 +1,4 @@
-Cadmium
+Cadmium (Updated 1.16.4 Compatibility)
 ===
 
 :warning: Here be dragons. This mod can only be used in a developer workspace, at least until a library replacement
